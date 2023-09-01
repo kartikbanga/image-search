@@ -14,7 +14,7 @@ To get started with this project, follow these steps:
 ### Installation
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/image-search-app.git
+   git clone https://github.com/_kartikbanga_/image-search-app.git
 Navigate to the project directory:
   cd image-search-app
 
