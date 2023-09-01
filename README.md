@@ -32,16 +32,16 @@ The app will fetch and display relevant images from Unsplash.
 
 You can click on the "Show More" button to load more images.
 
-Features
+## Features
 Search for images using keywords.
 Display search results with image previews and links to the Unsplash website.
 Load more images to view additional results.
 Responsive design for various screen sizes.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Acknowledgments
+## Acknowledgments
 Thanks to Unsplash for providing the API for free image access.
 Feel free to customize this README file to suit your specific project needs. You can include additional sections, such as "Troubleshooting," "Dependencies," or "FAQ," as necessary.
 
