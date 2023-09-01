@@ -14,15 +14,14 @@ To get started with this project, follow these steps:
 ### Installation
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/_kartikbanga_/image-search-app.git
-Navigate to the project directory:
-  cd image-search-app
+      git clone https://github.com/_kartikbanga_/image-search-app.git
+2. Navigate to the project directory:
+     cd image-search-app
 
-2. Create a config.js file in the project root and add your Unsplash API access key:
-
-  const unsplashAccessKey = 'YOUR_UNSPLASH_API_ACCESS_KEY';
-3. Open the project in your code editor.
-4. Open the index.html file in your browser to use the app.
+4. Create a config.js file in the project root and add your Unsplash API access key:
+     const unsplashAccessKey = 'YOUR_UNSPLASH_API_ACCESS_KEY';
+5. Open the project in your code editor.
+6. Open the index.html file in your browser to use the app.
 
 Usage
 Open the index.html file in your browser.
